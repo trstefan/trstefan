@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### A little more about me...  
 
 ```javascript
-const stefan = {
+const stef = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["WebDev", "Gaming", "Sports"],
