@@ -1,7 +1,7 @@
 ## Hello there, I'm Stef 👋🐱
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stefantraciu20@gmail.com)](mailto:stefantraciu20@gmail.com)
-
+<a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://findicons.com/files/icons/2779/simple_icons/2048/codepen_2048_black.png"  width="20" height="20" /> </a>
 - 👯 I’m looking to contribute to open source
 - 🥅 2022 Goals: Learn and build stuff with new technologies and become a more active open source contributor
 - ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
