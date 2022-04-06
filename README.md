@@ -1,7 +1,7 @@
 ## Hello there, I'm Stef 👋🐱
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stefantraciu20@gmail.com)](mailto:stefantraciu20@gmail.com)
-<a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://findicons.com/files/icons/2779/simple_icons/2048/codepen_2048_black.png"  width="25" height="25" /> </a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:stefantraciu20@gmail.com)](mailto:stefantraciu20@gmail.com)
+<a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a>
 
 Few words about me
 
