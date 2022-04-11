@@ -10,7 +10,8 @@ Few words about me
 - 🥅 2022 Goals: Learn and build stuff with new technologies and become a more active open source contributor
 - ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
 
-### I use these baddies to build stuff on the internet
+<h3>I use these baddies to build stuff on the internet </h3>
+
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Bootstrap" src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JS" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="React" src ="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img alt="React Router" src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <br>
 <details>	
@@ -49,14 +50,14 @@ const stef = {
     code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["WebDev", "Gaming", "Sports"],
     technologies: {
-        frontEnd:["React", "Javascript", "CSS", "HTML", "BootStrap"],
-        backEnd: {
-            js: ["Node", "Express"],
-        },
+        frontEnd:["React", "Javascript", "CSS", "HTML", "Bootstrap"],
+        backEnd: ["Node", "Express"],
         databases: ["MongoDB"],
+        devops: ["Heroku"],
+        tools: ["VS Code", "Postman", "Notion", "Git", "Github"],
         misc: ["Rasa"]
     },
-    currentFocus: ["Redux","TypeScript"],
+    currentFocus: ["NextJS", "TypeScript", "Redux", "Sass"],
     fun: "There are only 10 kinds of people in this world: those who know binary and those who don’t."
 };
 ```
