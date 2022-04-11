@@ -1,4 +1,4 @@
-## Hello there, I'm Stef 👋🐱
+<h2> Hello there, I'm Stef <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:stefantraciu20@gmail.com)](mailto:stefantraciu20@gmail.com)
 <a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a>
