@@ -42,8 +42,8 @@ Few words about me
 ### Technologies I would like to learn/ Currently learning
 <img alt="Next.Js" src ="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="TypeScript" src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="Redux" src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> <img alt="SASS" src ="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <br>
-### A little more about me...  
-
+### <img src="https://i.giphy.com/media/bQSX8MFxnyqti/giphy.webp" width="50"> A little more about me...  
+<!-- Credits goes to https://giphy.com/pusheen for the R2D2 Cat emoji -->
 ```javascript
 const stef = {
     pronouns: "He" | "Him",
