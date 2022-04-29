@@ -5,12 +5,13 @@
 <a href="https://trstefan.github.io/website/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 
  <h3>Glad to see you here! :octocat: </h3>
- <h4>Few lines about me: </h4>
+ <h4>Few bits about me: </h4>
 
-
+- 🏛 <i><b>B.Sc</b></i> in Computing Science from University of East Anglia
 - <img src="https://flyclipart.com/thumb2/react-logo-png-transparent-vector-221723.png" width="20"> React explorer
-- 👯 I’m looking to contribute to open source
+- 💻 I usually speak in `console.log("javascript");`
 - 🥅 2022 Goals: Learn and build stuff with new technologies and become a more active open source contributor
+- 👨🏻‍💻 Sometimes I solve programming problems <i>@<a href="https://www.frontendmentor.io/home">Frontend Mentor</a></i> and <i>@<a href="https://leetcode.com/">LeetCode</a></i>
 - ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
 
 <h3>I use these baddies to build stuff on the internet </h3>
@@ -53,12 +54,14 @@ const stef = {
     code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["WebDev", "Gaming", "Sports"],
     technologies: {
-        frontEnd:["React", "Javascript", "CSS", "HTML", "Bootstrap"],
-        backEnd: ["Node", "Express"],
-        databases: ["MongoDB"],
-        devops: ["Heroku"],
-        tools: ["VS Code", "Postman", "Notion", "Git", "Github"],
-        misc: ["Rasa"]
+      web: {
+         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap'],
+         backEnd: ['NodeJS', 'ExpressJS', 'mongoose'],
+         },
+      databases: ["mongoDB"],
+      devops: ["Heroku"],
+      tools: ["VS Code", "Postman", "Notion", "Git", "Github"],
+      misc: ["Rasa"]
     },
     currentFocus: ["NextJS", "TypeScript", "Redux", "Sass"],
     fun: "There are only 10 kinds of people in this world: those who know binary and those who don’t."
