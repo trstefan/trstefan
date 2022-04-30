@@ -7,7 +7,6 @@
  <h3>Glad to see you here! :octocat: </h3>
  <h4>Few bits about me: </h4>
 
-- 🏛 <i><b>B.Sc</b></i> in Computing Science from University of East Anglia
 - <img src="https://flyclipart.com/thumb2/react-logo-png-transparent-vector-221723.png" width="20"> React explorer
 - 💻 I usually speak in `console.log("javascript");`
 - 🥅 2022 Goals: Learn and build stuff with new technologies and become a more active open source contributor
