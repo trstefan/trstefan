@@ -49,7 +49,6 @@
 <!-- Credits goes to https://giphy.com/pusheen for the R2D2 Cat emoji -->
 ```javascript
 const stef = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["WebDev", "Gaming", "Sports"],
     technologies: {
