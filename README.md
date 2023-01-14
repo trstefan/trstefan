@@ -9,7 +9,7 @@
 
 - <img src="https://flyclipart.com/thumb2/react-logo-png-transparent-vector-221723.png" width="20"> React explorer
 - 💻 I usually speak in `console.log("javascript");`
-- 🥅 2022 Goals: Learn and build stuff with new technologies and become a more active open source contributor
+- 🥅 2023 Goals: Learn and build stuff with new technologies and become a more active open source contributor
 - 👨🏻‍💻 Sometimes I solve programming problems <i>@<a href="https://www.frontendmentor.io/home">Frontend Mentor</a></i> and <i>@<a href="https://leetcode.com/">LeetCode</a></i>
 - ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
 
