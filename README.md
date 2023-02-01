@@ -14,7 +14,7 @@
 - ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
 
 <h3>I use these baddies to build stuff on the internet </h3>
-<div
+<div>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img alt="Bootstrap" src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
