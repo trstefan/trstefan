@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:stefantraciu20@gmail.com)](mailto:stefantraciu20@gmail.com)
 <a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> </a>
-<a href="https://trstefan.github.io/website/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+<a href="https://stportfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 
  <h3>Glad to see you here! :octocat: </h3>
  <h4>Few bits about me: </h4>
