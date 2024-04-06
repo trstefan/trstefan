@@ -2,7 +2,7 @@
 
 <h3>Glad to see you here! :octocat: </h3>
 <a href="mailto:stefantraciu20@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
-<a href="https://codepen.io/StefFcp" target="_blank"> <img src="https://skillicons.dev/icons?i=codepen"> </a>
+<a href="https://codepen.io/trstefan" target="_blank"> <img src="https://skillicons.dev/icons?i=codepen"> </a>
 
 
 <h4>You can visit me: </h4>
