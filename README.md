@@ -2,14 +2,27 @@
 
 <h3>Glad to see you here! :octocat: </h3>
 
-<p>I'm an artist, designer, and CSS developer making weird projects for the web. </p>
+<p>I'm a designer and React developer making weird projects for the web. </p>
 
 <p>Check out some of my work:</p>
 
- :book:  [Porfolio](https://tstefan.vercel.app) <br>
+<div>
+ 
+:book: [Porfolio](https://tstefan.vercel.app) <br>
 :bug: [Poke Dexplorer](https://react-pokedex-peach-nine.vercel.app) <br>
 :space_invader: [Rick and Morty](https://rick-and-mortyapi.vercel.app) <br>
-:zzz: [Sleep Serenade](https://sleep-serenade.vercel.app) 
+:notes: [Sleep Serenade](https://sleep-serenade.vercel.app) <br>
+:test_tube: [VS code themed portfolio](https://stportfolio.vercel.app) <br>
+:notebook_with_decorative_cover:	[Html-CSS-JS snippets](https://trstefan.github.io/html-css-js-snippets/) <br>
+:notebook_with_decorative_cover:	[Fronted-mentor tracker](https://trstefan.github.io/frontendmentortracker/) <br>
+:page_with_curl:	[Sticky Notes](https://trstefan.github.io/react-notes) <br>
+
+</div>
+
+----
+
+[CodePen](https://codepen.io/trstefan) | [Mail](mailto:stefantraciu20@gmail.com) | [CV](https://read.cv/trstef) | [Website](https://tstefan.vercel.app)
+
 ----
 
 <h3>I use these baddies to build stuff on the internet </h3>
