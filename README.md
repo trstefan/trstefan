@@ -1,21 +1,16 @@
 <h2> Hello there, I'm Stef <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 <h3>Glad to see you here! :octocat: </h3>
-<a href="mailto:stefantraciu20@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
-<a href="https://codepen.io/trstefan" target="_blank"> <img src="https://skillicons.dev/icons?i=codepen"> </a>
 
+I'm an artist, designer, and CSS developer making weird projects for the web.
 
-<h4>You can visit me: </h4>
- <a href="https://stportfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-<h4>Few bits about me: </h4>
+Check out some of my work:
 
-
-
-- <img src="https://skillicons.dev/icons?i=react" width="20"> React explorer
-- 💻 I usually speak in `console.log("javascript");`
-- 🥅 Goals: Learn and build stuff with new technologies and become a more active open source contributor
-- 👨🏻‍💻 Sometimes I solve programming problems <i>@<a href="https://www.frontendmentor.io/home">Frontend Mentor</a></i> and <i>@<a href="https://leetcode.com/">LeetCode</a></i>
-- ⚡ Fun fact: The greeting message is a Star Wars reference ⭐
+:book: [Porfolio](https://tstefan.vercel.app) <br>
+:bug: [Poke Dexplorer](https://react-pokedex-peach-nine.vercel.app/) <br>
+:space_invader: [Rick and Morty](https://rick-and-mortyapi.vercel.app/) <br>
+:zzz: [Sleep Serenade](https://sleep-serenade.vercel.app/) <br>
+----
 
 <h3>I use these baddies to build stuff on the internet </h3>
 <p align="center">
