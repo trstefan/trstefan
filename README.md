@@ -8,14 +8,16 @@
 
 <div>
  
-:book: [Porfolio](https://tstefan.vercel.app) <br>
-:bug: [Poke Dexplorer](https://react-pokedex-peach-nine.vercel.app) <br>
-:space_invader: [Rick and Morty](https://rick-and-mortyapi.vercel.app) <br>
-:notes: [Sleep Serenade](https://sleep-serenade.vercel.app) <br>
-:test_tube: [VS code themed portfolio](https://stportfolio.vercel.app) <br>
-:notebook_with_decorative_cover:	[Html-CSS-JS snippets](https://trstefan.github.io/html-css-js-snippets/) <br>
-:notebook_with_decorative_cover:	[Fronted-mentor tracker](https://trstefan.github.io/frontendmentortracker/) <br>
-:page_with_curl:	[Sticky Notes](https://trstefan.github.io/react-notes) <br>
+📂 [Porfolio](https://tstefan.vercel.app) <br>
+🇷🇴 [WanderLog](https://wanderlog-self.vercel.app/) <br>
+🌈 [HarmonyHues](https://harmonyhues-st.vercel.app/) <br>
+🐛 [Poke Dexplorer](https://pokedexplorer-eight.vercel.app/) <br>
+👾 [Rick and Morty](https://rick-and-mortyapi.vercel.app) <br>
+🎶 [Tranquil Tones](https://tranquil-tones.vercel.app/) <br>
+🧪 [VS code themed portfolio](https://stportfolio.vercel.app) <br>
+📔 [Html-CSS-JS snippets](https://trstefan.github.io/html-css-js-snippets/) <br>
+📔 [Fronted-mentor tracker](https://trstefan.github.io/frontendmentortracker/) <br>
+📃 [Sticky Notes](https://trstefan.github.io/react-notes) <br>
 
 </div>
 
