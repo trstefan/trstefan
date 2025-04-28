@@ -8,16 +8,13 @@
 
 <div>
  
-📂 [Porfolio](https://tstefan.vercel.app) <br>
-🇷🇴 [WanderLog](https://wanderlog-self.vercel.app/) <br>
-🌈 [HarmonyHues](https://harmonyhues-st.vercel.app/) <br>
-🐛 [Poke Dexplorer](https://pokedexplorer-eight.vercel.app/) <br>
-👾 [Rick and Morty](https://rick-and-mortyapi.vercel.app) <br>
-🎶 [Tranquil Tones](https://tranquil-tones.vercel.app/) <br>
-🧪 [VS code themed portfolio](https://stportfolio.vercel.app) <br>
-📔 [Html-CSS-JS snippets](https://trstefan.github.io/html-css-js-snippets/) <br>
-📔 [Fronted-mentor tracker](https://trstefan.github.io/frontendmentortracker/) <br>
-📃 [Sticky Notes](https://trstefan.github.io/react-notes) <br>
+📂 **[Porfolio](https://tstefan.vercel.app)** <br>
+🇷🇴 **[WanderLog](https://wanderlog-self.vercel.app/)** <br>
+🌈 **[HarmonyHues](https://harmonyhues-st.vercel.app/)** <br>
+🐛 **[Poke Dexplorer](https://pokedex-next-five-gamma.vercel.app/)**<br>
+👾 **[Rick and Morty](https://rickandmortyuniverse-iota.vercel.app/)** <br>
+🎶 **[Tranquil Tones](https://tranquil-tones.vercel.app/)** <br>
+🧪 **[VS code themed portfolio](https://stportfolio.vercel.app)** <br>
 
 </div>
 
