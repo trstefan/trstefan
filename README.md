@@ -20,7 +20,7 @@
 
 ----
 
-[CodePen](https://codepen.io/trstefan) | [Mail](mailto:stefantraciu20@gmail.com) | [CV](https://read.cv/trstef) | [Website](https://tstefan.vercel.app)
+[CodePen](https://codepen.io/trstefan) | [Mail](mailto:stefantraciu20@gmail.com) | [Website](https://tstefan.vercel.app)
 
 ----
 
