@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Stef <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-📍 **Romania ↔ UK** | 🤖 **Web dev** | :leaves: **Nature Lover** 
+📍 **Romania ↔ UK** | 🤖 **Web dev** | :leaves: **Nature lover** 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
