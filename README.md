@@ -1,22 +1,29 @@
 <h2> Hello there, I'm Stef <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-<h3>Glad to see you here! :octocat: </h3>
+📍 **Romania ↔ UK** | 🤖 **Web dev** | :leaves: **Nature Lover** 
 
-<p>I'm a designer and React developer making weird projects for the web. </p>
-
-<p>Check out some of my work:</p>
-
-<div>
- 
-📂 **[Porfolio](https://tstefan.vercel.app)** <br>
-🇷🇴 **[WanderLog](https://wanderlog-self.vercel.app/)** <br>
-🌈 **[HarmonyHues](https://harmonyhues-st.vercel.app/)** <br>
-🐛 **[Poke Dexplorer](https://pokedex-next-five-gamma.vercel.app/)**<br>
-👾 **[Rick and Morty](https://rickandmortyuniverse-iota.vercel.app/)** <br>
-🎶 **[Tranquil Tones](https://tranquil-tones.vercel.app/)** <br>
-🧪 **[VS code themed portfolio](https://stportfolio.vercel.app)** <br>
-
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50  height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+> Deep in crafting simple, accessible and performant experiences on the web. Believer in building a digital world that works for everyone.
+
+## Current Projects
+
+- 💻 **[Copy Aesthetics](https://copy-aesthetics.vercel.app/)** - UI Theme previewer and Copy & Paste ready UI prompts library
+- 🎶 **[Tranquil Tones](https://tranquiltones.vercel.app/)** - Enhance Relaxation, Improve Sleep, and Boost Focus sounds library
+- ⭐ **[Plasma Visualizer](https://plasma-visualizer.vercel.app/)** - Plasma core visualizer 
+- 🗺️ **[Wander Log](https://wanderlog-self.vercel.app/)** - Travel Journal
+- 🌈 **[HarmonyHues](https://harmonyhues-st.vercel.app/)** - Copy & Paste ready gradient library
+- 🐛 **[Pokedex](https://pokedex-next-five-gamma.vercel.app/)** - Full working Pokedex
+ 
+
+
+
 
 ----
 
@@ -24,44 +31,42 @@
 
 ----
 
-<h3>I use these baddies to build stuff on the internet </h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+
+- Frontend
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,nextjs,python,django,flask,mongodb,firebase,nodejs,express,vite,vercel,git,github,figma,notion,postman,vscode" />
+     <img src="https://skillicons.dev/icons?i=react,next,html,css,ts,js,sass,tailwind,bootstrap,threejs">
   </a>
 </p>
 
 
-<br>
-<details>	
-  <summary><b>Frontend Development</b></summary>
- <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,nextjs">
-</details>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=nextjs,python,nodejs,express">
+  </a>
+</p>
 
-<details>	
-  <summary><b>Backend Developement(beginner)</b></summary>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express">
+- Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  </a>
+</p>
 
-</details>
+- Cloud Services
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel" />
+  </a>
+</p>
 
-<details>	
-  <summary><b>Databases</b></summary>
- <img src="https://skillicons.dev/icons?i=mongodb,firebase">
-</details>
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=vscode,notion,figma,postman,git,github">
+  </a>
+</p>
 
-<details>	
-  <summary><b>Backend as a Service(BaaS)</b></summary>
- <img src="https://skillicons.dev/icons?i=vercel">
 
-</details> 
-
-<details>	
-  <summary><b>Tools</b></summary>
- <img src="https://skillicons.dev/icons?i=vscode,notion,figma,postman,git,github">
-
-</details> 
-
-### Technologies I would like to learn/ Currently working on
- <img src="https://skillicons.dev/icons?i=docker,go,nextjs,tailwind">
-
-<br>
