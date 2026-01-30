@@ -27,7 +27,7 @@
 
 ----
 
-  [Website](https://tstefan.vercel.app) | [Mail](mailto:stefantraciu20@gmail.com) | [CodePen](https://codepen.io/trstefan) |
+  [Website](https://tstefan.vercel.app) | [Mail](mailto:stefantraciu20@gmail.com) | [CodePen](https://codepen.io/trstefan) 
 
 ----
 
